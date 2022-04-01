@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-<!--
-**shikelong/shikelong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the mysterious secret page...  
+I'm RioShi, a frontend engineer from China Mainland.
 
-Here are some ideas to get you started:
+📫 How to reach me:
+* Email: rio.shi@qq.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=shikelong&count_private=true&include_all_commits=true&theme=dracula" />
+</div>
 
-⚡ Hello world.
+<hr>
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shikelong.shikelong" alt="visitor badge"/>  
+</p>
